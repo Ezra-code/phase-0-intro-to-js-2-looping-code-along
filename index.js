@@ -7,7 +7,6 @@ function writeCards(thankYou, event){
     }
     return thanks
 }
-console.log(writeCards(["Guadalupe", "Ollie", "Aki"], "graduation"))
 function countDown(count){
     while(count >= 0){
         console.log(count--)
